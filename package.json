@@ -1,6 +1,6 @@
 {
   "name": "singleton-state",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minimal module for centralized singleton state",
   "repository": {
     "type": "git",
