@@ -2,6 +2,10 @@
   "name": "singleton-state",
   "version": "1.0.0",
   "description": "Minimal module for centralized singleton state",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/steffenvv/singleton-state"
+  },
   "type": "module",
   "main": "lib/index.js",
   "module": "lib/index.js",
