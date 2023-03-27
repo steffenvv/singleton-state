@@ -1,0 +1,21 @@
+{
+  "name": "singleton-state",
+  "version": "1.0.0",
+  "description": "Minimal module for centralized singleton state",
+  "type": "module",
+  "main": "lib/index.js",
+  "module": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "cross-env NODE_OPTIONS=--experimental-vm-modules jest"
+  },
+  "author": "Steffen Viken Valvåg <steffen@valvag.no>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.5.0",
+    "cross-env": "^7.0.3",
+    "jest": "^29.5.0",
+    "typescript": "^5.0.2"
+  }
+}

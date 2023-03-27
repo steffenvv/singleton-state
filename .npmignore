@@ -1,0 +1,7 @@
+.vscode
+src
+jest.config.js
+*.test.js
+*.test.d.ts
+package-lock.json
+tsconfig.json
