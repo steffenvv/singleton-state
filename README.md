@@ -1,6 +1,6 @@
 # singleton-state
 
-This packages contains a minimal module for centralized singleton state. The `createSingletonState` function
+This package contains a minimal module for centralized singleton state. The `createSingletonState` function
 returns an object to access a named singleton variable, storing its value in a dictionary in the module's state.
 
 ## Motivation
