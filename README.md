@@ -24,7 +24,7 @@ type LogMessageDispatcher = {
   /* ... */
 };
 
-const dispatcherState = createSingletonState<LogMessageDispatcher | null>(
+const dispatcher = createSingletonState<LogMessageDispatcher | null>(
   "LogMessageDispatcher", // Could also consider using a GUID here
   null
 );
